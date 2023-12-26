@@ -3,3 +3,5 @@ git restore
 git add
 git commit
 git remove --cache
+git remote -v
+git status
