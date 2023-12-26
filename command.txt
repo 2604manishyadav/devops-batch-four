@@ -6,3 +6,4 @@ git remove --cache
 git remote -v
 git status
 git push
+git push2
