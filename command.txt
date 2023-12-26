@@ -7,3 +7,4 @@ git remote -v
 git status
 git push
 git push2
+Git pull2
